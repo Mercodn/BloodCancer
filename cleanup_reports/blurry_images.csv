@@ -1,0 +1,47 @@
+image_path,label,class_dir,laplacian_variance
+Blood cell Cancer [ALL]\Benign\Snap_001 (3).jpg,benign,Benign,90.03189709633088
+Blood cell Cancer [ALL]\Benign\Snap_002 (3).jpg,benign,Benign,90.56548528148892
+Blood cell Cancer [ALL]\Benign\Snap_003 (3).jpg,benign,Benign,92.16860154912666
+Blood cell Cancer [ALL]\Benign\Snap_004 (3).jpg,benign,Benign,87.16744077128334
+Blood cell Cancer [ALL]\Benign\Snap_007 (3).jpg,benign,Benign,94.46011503455337
+Blood cell Cancer [ALL]\Benign\Snap_008 (3).jpg,benign,Benign,89.76178744610112
+Blood cell Cancer [ALL]\Benign\Snap_009 (3).jpg,benign,Benign,90.93928553289423
+Blood cell Cancer [ALL]\Benign\Snap_010 (3).jpg,benign,Benign,97.2625384293
+Blood cell Cancer [ALL]\Benign\Snap_011 (3).jpg,benign,Benign,99.09408272344332
+Blood cell Cancer [ALL]\Benign\Snap_013 (3).jpg,benign,Benign,92.04108750255887
+Blood cell Cancer [ALL]\Benign\Snap_014 (3).jpg,benign,Benign,91.11787183511241
+Blood cell Cancer [ALL]\Benign\Snap_015 (3).jpg,benign,Benign,85.5593851057662
+Blood cell Cancer [ALL]\Benign\Snap_016 (3).jpg,benign,Benign,91.37379661352833
+Blood cell Cancer [ALL]\Benign\Snap_017 (3).jpg,benign,Benign,85.4875817351871
+Blood cell Cancer [ALL]\Benign\Snap_018 (3).jpg,benign,Benign,93.24828978771133
+Blood cell Cancer [ALL]\Benign\Snap_019 (3).jpg,benign,Benign,90.28779689539124
+Blood cell Cancer [ALL]\Benign\Snap_020 (3).jpg,benign,Benign,85.27704454132649
+Blood cell Cancer [ALL]\Benign\Snap_021 (3).jpg,benign,Benign,87.78330899655406
+Blood cell Cancer [ALL]\Benign\Snap_022 (3).jpg,benign,Benign,97.16258562084
+Blood cell Cancer [ALL]\Benign\Snap_023 (3).jpg,benign,Benign,97.4794913466738
+Blood cell Cancer [ALL]\Benign\Snap_024 (3).jpg,benign,Benign,97.84466881986754
+Blood cell Cancer [ALL]\Benign\Snap_025 (3).jpg,benign,Benign,99.6952084378236
+Blood cell Cancer [ALL]\Benign\Snap_026 (3).jpg,benign,Benign,95.25657713209523
+Blood cell Cancer [ALL]\Benign\Snap_027 (3).jpg,benign,Benign,89.14812580136255
+Blood cell Cancer [ALL]\Benign\Snap_028 (3).jpg,benign,Benign,105.01008438691497
+Blood cell Cancer [ALL]\Benign\Snap_029 (3).jpg,benign,Benign,99.77339131136735
+Blood cell Cancer [ALL]\Benign\Snap_030 (3).jpg,benign,Benign,101.4034370277284
+Blood cell Cancer [ALL]\Benign\Snap_031 (3).jpg,benign,Benign,107.52708284059747
+Blood cell Cancer [ALL]\Benign\Snap_033 (2).jpg,benign,Benign,101.68924742956956
+Blood cell Cancer [ALL]\Benign\Snap_034 (2).jpg,benign,Benign,101.9627807739476
+Blood cell Cancer [ALL]\Benign\Snap_035 (2).jpg,benign,Benign,97.95993691950623
+Blood cell Cancer [ALL]\Benign\Snap_036 (2).jpg,benign,Benign,98.14050460082255
+Blood cell Cancer [ALL]\Benign\Snap_037 (2).jpg,benign,Benign,100.4051150863945
+Blood cell Cancer [ALL]\Benign\Snap_038 (2).jpg,benign,Benign,103.16282105525268
+Blood cell Cancer [ALL]\Benign\Snap_039 (2).jpg,benign,Benign,102.93482630220784
+Blood cell Cancer [ALL]\Benign\Snap_040 (2).jpg,benign,Benign,113.62982983491617
+Blood cell Cancer [ALL]\Benign\Snap_041 (2).jpg,benign,Benign,101.31980515317615
+Blood cell Cancer [ALL]\Benign\Snap_042 (2).jpg,benign,Benign,99.15116769438585
+Blood cell Cancer [ALL]\Benign\Snap_043 (2).jpg,benign,Benign,101.17675114570056
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_001.jpg,malignant,[Malignant] Pro-B,109.71471743239296
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_002.jpg,malignant,[Malignant] Pro-B,111.27701281838947
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_003.jpg,malignant,[Malignant] Pro-B,108.35268698551108
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_004.jpg,malignant,[Malignant] Pro-B,108.34680284282362
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_009.jpg,malignant,[Malignant] Pro-B,105.1044130587445
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_010.jpg,malignant,[Malignant] Pro-B,106.40545495866074
+Blood cell Cancer [ALL]\[Malignant] Pro-B\Snap_011.jpg,malignant,[Malignant] Pro-B,109.673064009878

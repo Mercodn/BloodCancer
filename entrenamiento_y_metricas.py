@@ -25,7 +25,7 @@ from sklearn.metrics import roc_curve
 DATA_DIR = Path("splits")  # Directorio con los CSV generados por cancer.py
 OUTPUT_DIR = Path("evaluation_results")
 BATCH_SIZE = 32
-EPOCHS = 10
+EPOCHS = 1
 LEARNING_RATE = 0.001
 IMAGE_SIZE = 224
 DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
