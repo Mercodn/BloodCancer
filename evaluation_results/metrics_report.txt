@@ -1,0 +1,44 @@
+============================================================
+REPORTE DE EVALUACIÓN DEL MODELO
+============================================================
+
+📊 MÉTRICAS PRINCIPALES
+----------------------------------------
+Accuracy:  0.9897 (98.97%)
+Precision: 0.9925 (99.25%)
+Recall:    0.9950 (99.50%)
+F1-Score:  0.9937 (99.37%)
+AUC-ROC:   0.9958
+
+📈 MÉTRICAS MACRO (promedio entre clases)
+----------------------------------------
+Precision Macro: 0.9849
+Recall Macro:    0.9806
+F1-Score Macro:  0.9827
+
+📋 REPORTE DE CLASIFICACIÓN DETALLADO
+----------------------------------------
+              precision    recall  f1-score   support
+
+     Benigno       0.98      0.97      0.97        89
+     Maligno       0.99      0.99      0.99       398
+
+    accuracy                           0.99       487
+   macro avg       0.98      0.98      0.98       487
+weighted avg       0.99      0.99      0.99       487
+
+🔢 MATRIZ DE CONFUSIÓN
+----------------------------------------
+                Predicho
+               Benigno  Maligno
+Real Benigno        86       3
+Real Maligno         2     396
+
+💡 INTERPRETACIÓN
+----------------------------------------
+• Verdaderos Negativos (VN): 86 - Benignos correctamente clasificados
+• Falsos Positivos (FP):    3 - Benignos clasificados como malignos
+• Falsos Negativos (FN):    2 - Malignos clasificados como benignos
+• Verdaderos Positivos (VP): 396 - Malignos correctamente clasificados
+
+⚠️ El modelo tiende a clasificar imágenes como malignas (más FP)

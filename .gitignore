@@ -1,14 +1,92 @@
+# Environments
 .venv/
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
 __pycache__/
+*.py[cod]
+*$py.class
 *.pyc
 *.pyo
 *.pyd
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Machine Learning / Data Science
+# Model files
+*.pkl
+*.pickle
+*.joblib
+*.h5
+*.hdf5
+*.ckpt
+*.pth
+*.pt
+*.pb
+*.tflite
+*.onnx
+
+# Large datasets (comment out if you want to include small datasets)
+# datasets/
+# data/
+
+# Logs
 *.log
+logs/
+
+# OS generated files
 .DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
 Thumbs.db
-splits/
-cleanup_reports/
-Blood cell Cancer \[ALL\]/
-*.sqlite3
-.env
+
+# IDE
 .vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# SQLite
+*.sqlite3
+*.sqlite3-journal
+
+# Environment variables
+.env

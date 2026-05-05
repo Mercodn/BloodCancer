@@ -1,0 +1,8 @@
+streamlit>=1.30.0
+torch==2.11.0
+torchvision==0.26.0
+pillow==12.2.0
+pandas==3.0.2
+matplotlib==3.10.9
+seaborn==0.13.2
+numpy==2.4.3
