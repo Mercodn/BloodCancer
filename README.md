@@ -1,4 +1,4 @@
-# 🩸 Blood Cancer Detection (ALL) - Deep Learning Solution
+#  Blood Cancer Detection (ALL) - Deep Learning Solution
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.11.0-red.svg)](https://pytorch.org/)
@@ -7,18 +7,18 @@
 
 > **Revolutionizing Leukemia Detection with AI** - A complete deep learning pipeline for Acute Lymphoblastic Leukemia (ALL) detection using Convolutional Neural Networks, achieving 98.97% accuracy with sustainable, open-source technology.
 
-## 🎯 Overview
+##  Overview
 
 This project implements a state-of-the-art **Convolutional Neural Network (CNN)** for the automatic detection of Acute Lymphoblastic Leukemia (ALL) from blood cell images. The solution is designed with **sustainability** and **territorial transformation** in mind, using 100% free software and low computational requirements.
 
-### ✨ Key Features
+###  Key Features
 
-- 🚀 **98.97% Accuracy** - Exceptional performance on independent test set
-- 🧠 **Custom CNN Architecture** - 4 convolutional blocks optimized for medical imaging
-- 🌍 **Sustainable Technology** - 100% open-source, low energy consumption
-- 📱 **Web Interface** - Intuitive Streamlit app for non-technical users
-- 🔬 **Medical Validation** - Comprehensive metrics and clinical evaluation
-- 📊 **Complete Pipeline** - From data preprocessing to deployment
+-  **98.97% Accuracy** - Exceptional performance on independent test set
+-  **Custom CNN Architecture** - 4 convolutional blocks optimized for medical imaging
+-  **Sustainable Technology** - 100% open-source, low energy consumption
+-  **Web Interface** - Intuitive Streamlit app for non-technical users
+-  **Medical Validation** - Comprehensive metrics and clinical evaluation
+-  **Complete Pipeline** - From data preprocessing to deployment
 
 ## 📊 Performance Metrics
 
@@ -251,12 +251,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Libraries**: scikit-learn, Streamlit, and open-source contributors
 - **Research**: IEEE academic paper and collaborators
 
-## 📞 Contact & Support
-
-- **Project Lead**: [Your Name]
-- **Institution**: [Your Institution]
-- **Email**: [your.email@example.com]
-- **GitHub Issues**: For bug reports and feature requests
 
 ## 🔗 Related Links
 
@@ -276,7 +270,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 ⭐ **Star this repository** if you find it useful!
-📝 **Cite our work** if you use it in your research!
+📝 **Cite our work** if you use it in your research please dont!
 
 - El dataset `Blood cell Cancer [ALL]/` no debe subirse.
 - `.venv/`
