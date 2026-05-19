@@ -559,12 +559,6 @@ elif page == "ℹ️ Información":
 
     **Siempre consulta con especialistas médicos calificados.**
 
-    ### 📞 Contacto y Soporte
-    - **Proyecto**: Detección de Cáncer con IA
-    - **Institución**: Universidad/Investigación
-    - **Año**: 2026
-    - **Versión**: 1.0
-
     ### 🔄 Actualizaciones
     El modelo puede ser mejorado con:
     - Más datos de entrenamiento
